@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.card {
+  text-align: center;
+  width: 40%;
+  border: 2px solid gray;
+  border-radius: 1rem;
+  margin: auto;
+  margin-top: 5%;
+  padding: 2rem;
+}
+
+img {
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+
+.header {
+  color: indigo;
+  margin-bottom: 2rem;
+}
